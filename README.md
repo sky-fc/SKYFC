@@ -6,8 +6,6 @@
 
 <!-- - 👨‍💻 All of my projects are available at -->
 
-- 👨‍💻 You can visit my portfolio website with my latest works @
-
 - 📫 You can reach me at **skyfc.work@gmail.com**
 
 #
