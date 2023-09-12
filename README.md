@@ -1,5 +1,6 @@
 <h1 align="center">SkyFC</h1>
-<p align="center"> I'm a curious software engineer and avid learner, always looking to soak up new knowledge like a sponge. I'm a passionate developer that loves Javascript and Python! </p>
+<p align="center"> I'm a curious software engineer and avid learner, always looking to soak up new knowledge like a sponge.
+  I'm a passionate developer that loves Javascript and Python! </p>
 
 #
 - Right now improving my skills by learning [C# / .NET](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) at [Coding Dojo](https://www.codingdojo.com/)
