@@ -6,8 +6,6 @@
 
 <!-- - 👨‍💻 All of my projects are available at -->
 
-- 📫 You can reach me at **skyfc.work@gmail.com**
-
 #
 
 ## 🤝 Connect with me
